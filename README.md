@@ -33,7 +33,7 @@
     ```
     The "question" structure is:
     ```
-    {"question": """Who said "<the quote>"?"""}
+    {"question": """Which character said "<the quote>"?"""}
     ```
     
     And the "answer" structure is:
