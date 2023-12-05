@@ -1,7 +1,14 @@
-
 # NovelQSI
 
-This is a github repository of my research project. You can find here all the important code that I've used. 
+### HuggingFace links 
+[Try fine-tuned model on HuggingFace](https://huggingface.co/Kkordik/test_longformer_4096_qsi) without installing it on local
+
+[See NovelQSI dataset](https://huggingface.co/datasets/Kkordik/NovelQSI), that was used for fine-tuning
+
+[See TriviaQA_SQuAD dataset](https://huggingface.co/datasets/Kkordik/TriviaQA_SQuAD), that was used to compare `mrm8488/longformer-base-4096-finetuned-squadv2` and 
+`deepset/deberta-v3-base-squad2` base models
+
+### This is a github repository of my research project. You can find here all the important code that I've used. 
 
 - [TriviaQA_to_SQuAD.ipynb](https://github.com/Kkordik/NovelQSI/blob/main/TriviaQA_to_SQuAD.ipynb) contains notebook python code for installing and converting original TriviaQA dataset to the dataset in the JSON format:
 
